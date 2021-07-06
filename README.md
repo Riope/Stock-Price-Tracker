@@ -16,6 +16,12 @@ This is a price tracker of shares made for stock traders.
     * smtplib - send mail to the user
     * ssl - secure the connection to the mail host
 
+Example of the logged values in the csv file:
+
+<p>
+  <img src="https://github.com/Riope/Stock-Prize-Tracker/blob/main/PriceData.jpg?raw=true">
+</p>
+
 ### Plot.py
 Plots the real-time stock prices for each of the given shares against their current time instant. This would help in visualising the market/share scenario for the user, giving the idea of the usual trend.
 
