@@ -18,3 +18,9 @@ This is a price tracker of shares made for stock traders.
 
 ### Plot.py
 Plots the real-time stock prices for each of the given shares against their current time instant. This would help in visualising the market/share scenario for the user, giving the idea of the usual trend.
+
+Example of the plots for stock price variation:
+
+<p align="center">
+  <img src="https://github.com/Riope/Stock-Prize-Tracker/blob/main/price_plots.jpeg?raw=true">
+</p>
