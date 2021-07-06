@@ -10,7 +10,7 @@ fig = plt.figure()
 
 file_r = pd.read_csv("PriceData.csv")
 
-code = ["TTM","AAPL","FB","TATASTEEL.BO"]
+code = ["AAPL","F","GE","AMD"]
 no = len(code)
 
 subPlots = []
